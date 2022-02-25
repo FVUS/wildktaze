@@ -8,8 +8,8 @@ show_downloads: true
 avatar: "/assets/images/logo.png"
 round-avatar: true
 github:
-  zip_url: /release/y2022/WildkatzeCFD.zip
-  another_url: /release/y2022/WildkatzeCFD.zip
+  zip_url: https://github.com/FVUS/wildktaze/blob/gh-pages/release/y2022/WildkatzeCFD.zip
+  another_url: https://github.com/FVUS/wildktaze/blob/gh-pages/release/y2022/WildkatzeCFD.zip
 google_analytics:
 
 
