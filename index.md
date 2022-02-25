@@ -4,7 +4,6 @@
 Wildkatze is a second and third order finite volume multi-physics solver for simulation in following areas:
 
 - Incompressible and Compressible Flow,
-    - Option
 - Aerodynamics,
 - Turbulent Flows
 - Heat Transfer, Conjugate Heat Transfer, Reactive Flows (Finite Rate Combustion),
