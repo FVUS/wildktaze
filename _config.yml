@@ -2,6 +2,7 @@ title: Wildkatze CFD
 logo: assets/images/logo.png
 description: Multiphysics Solver.
 show_downloads: true
+avatar: "assets/images/logo.png"
 google_analytics:
 
 theme: jekyll-theme-leap-day
