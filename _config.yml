@@ -7,6 +7,8 @@ description: Multiphysics Solver.
 show_downloads: true
 avatar: "/assets/images/logo.png"
 round-avatar: true
+github:
+  zip_url: /release/y2022/WildkatzeCFD.zip
 google_analytics:
 
 
