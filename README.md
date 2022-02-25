@@ -1,4 +1,5 @@
-# wildktaze [Digital Solutions Inc](http://www.digital-sol.co.jp/wildkatze/index_en.html).
+# wildktaze
+[Digital Solutions Inc](http://www.digital-sol.co.jp/wildkatze/index_en.html).
 
 Wildkatze is a second and third order finite volume multi-physics solver for simulation in following areas:
 
