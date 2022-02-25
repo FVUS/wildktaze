@@ -9,7 +9,7 @@ avatar: "/assets/images/logo.png"
 round-avatar: true
 github:
   zip_url: /release/y2022/WildkatzeCFD.zip
-  tar_url: /release/y2022/WildkatzeCFD.zip
+  another_url: /release/y2022/WildkatzeCFD.zip
 google_analytics:
 
 
