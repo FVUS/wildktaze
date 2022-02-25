@@ -1,16 +1,16 @@
 theme: jekyll-theme-minimal
 
-title: Wildkatze CFD
+title: Wildkatze
 logo:  assets/images/logo.png
 show_logo: true
-description: Multiphysics Solver
+description: Multiphysics Simulations
 show_downloads: true
 avatar: assets/images/logo.png
 round-avatar: true
 github:
-  zip_url: https://github.com/FVUS/wildktaze/blob/gh-pages/release/y2022/WildkatzeCFD.zip
-  tar_url: https://github.com/FVUS/wildktaze/blob/gh-pages/release/y2022/WildkatzeCFD.zip
-  another_url: https://github.com/FVUS/wildktaze/blob/gh-pages/release/y2022/WildkatzeCFD.zip
+  zip_url: https://github.com/FVUS/wildktaze/blob/main/release/y2022/WildkatzeCFD.zip
+  tar_url: https://github.com/FVUS/wildktaze/blob/main/release/y2022/WildkatzeCFD.zip
+  another_url: https://github.com/FVUS/wildktaze/blob/main/release/y2022/WildkatzeCFD.zip
   
 
 
