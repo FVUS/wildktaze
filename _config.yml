@@ -1,18 +1,1 @@
 theme: jekyll-theme-leap-day
-
-# Name of website
-title: FVUS Wildkatze
-
-# Your name to show in the footer
-author: Digital Solutions Inc
-
-
-
-# --- List of links in the navigation bar --- #
-
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
