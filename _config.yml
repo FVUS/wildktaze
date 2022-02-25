@@ -1,15 +1,15 @@
 theme: jekyll-theme-leap-day
 
 title: Wildkatze CFD
-logo: "/assets/images/logo.png"
+
 show_logo: true
-description: Multiphysics Solver.
+description: Multiphysics Solver
 show_downloads: true
 avatar: "/assets/images/logo.png"
 round-avatar: true
 github:
   zip_url: https://github.com/FVUS/wildktaze/blob/gh-pages/release/y2022/WildkatzeCFD.zip
   another_url: https://github.com/FVUS/wildktaze/blob/gh-pages/release/y2022/WildkatzeCFD.zip
-google_analytics:
+  logo:  /assets/images/logo.png
 
 
