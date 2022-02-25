@@ -11,7 +11,9 @@ github:
   zip_url: https://github.com/FVUS/wildktaze/blob/main/release/y2022/WildkatzeCFD.zip
   tar_url: https://github.com/FVUS/wildktaze/blob/main/release/y2022/WildkatzeCFD.zip
   another_url: https://github.com/FVUS/wildktaze/blob/main/release/y2022/WildkatzeCFD.zip
+  is_project_page: true
   owner_name: Digital Solutions Inc.
+  
   
 
 
