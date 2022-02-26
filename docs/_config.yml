@@ -90,6 +90,11 @@ defaults:
       comments: false                                   # Set to true to enable disqus comments
   - scope:
       path: ""
+      type: "installation"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+  - scope:
+      path: ""
       type: "instposts"
     values:
       comments: false                                   # Set to true to enable disqus comments
