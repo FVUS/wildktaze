@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.metadata["plugin_type"] = "theme"
 
-  spec.files                   = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
+  spec.files                   = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_instposts|_sass|LICENSE|README)!i) }
 
   spec.add_runtime_dependency "jekyll", "~> 3.9"
   spec.add_runtime_dependency "jekyll-default-layout", "~> 0.1.4"
