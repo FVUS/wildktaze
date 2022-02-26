@@ -95,11 +95,6 @@ defaults:
       comments: false                                   # Set to true to enable disqus comments
   - scope:
       path: ""
-      type: "instpost"
-    values:
-      comments: false                                   # Set to true to enable disqus comments
-  - scope:
-      path: ""
       type: "instposts"
     values:
       comments: false                                   # Set to true to enable disqus comments
