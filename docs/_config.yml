@@ -48,6 +48,7 @@ author:
 
 ### Posts ###
 permalink: /blog/:title
+permalink: /instposts/:title
 
 
 ### Collections ###
