@@ -87,7 +87,7 @@ defaults:
       layout: "element"                                 # For Documentation Only
   - scope:
       path: ""
-      type: "ssposts"
+      type: "posts"
     values:
       comments: false                                   # Set to true to enable disqus comments
   - scope:
