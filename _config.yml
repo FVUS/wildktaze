@@ -96,6 +96,11 @@ defaults:
       type: "instposts"
     values:
       comments: false                                   # Set to true to enable disqus comments
+  - scope:
+      path: ""
+      type: "intropage"
+    values:
+      layout: "page"
 
 ### Exclude from processing ###
 exclude:
