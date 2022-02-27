@@ -1,4 +1,5 @@
 ---
+layout: page
 name: The Movies Project
 tools: [C#, XML, WPF]
 image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
