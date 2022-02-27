@@ -7,9 +7,9 @@ weight: 5
 
 # **History**
 
-The project FVUS (Finite Volume Utilities and Solvers)  was started on 1st January 2015 with the aim of providing a very robust and highly adaptable multi-physics solver. 
+The project **FVUS** (Finite Volume Utilities and Solvers)  was started on 1st January 2015 with the aim of providing a very robust and highly adaptable multi-physics solver. 
 
- With accuracy being of the utmost importance following goals were set: 
+ With **accuracy** being of the utmost importance following goals were set: 
 - Highly parallel, multi-region and multi-phase solver
 - Shall be extremely stable and should provide reliable results even with worse of meshes.
 - Easy to accommodate new research ideas
