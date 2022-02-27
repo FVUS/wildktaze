@@ -7,12 +7,7 @@ external_url:
 ---
 
 
-{% include head.html %}
+{% include layout/head.html %}
 
-<body class="h-100 d-flex flex-column">
-
-  <main class="flex-shrink-0 container mt-5">
-    {% include navbar.html %}
-    {{ content }}
-  </main>
-{% include footer.html %}
+ 
+{% include layout/footer.html %}
