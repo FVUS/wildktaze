@@ -5,13 +5,6 @@ permalink: /about/
 weight: 5
 ---
 
-# **About Wildkatze Multiphysics Solver**
+# **History**
 
-
-Wildkatze is a second and third order finite volume multi-physics solver for simulation in following areas:
-- Incompressible and Compressible Flow,
-- Aerodynamics,
-- Turbulent Flows
-- Heat Transfer, Conjugate Heat Transfer, Reactive Flows (Finite Rate Combustion),
-- Multiphase Flows (Unlimited Number of Phases), Reactive Mold Filling and
-- User Customized Model for Customized Research
+The project FVUS (Finite Volume Utilities and Solvers)  was started on 1st January 2015 after I stopped working with CD-Adapco with the aim of providing a very robust and highly adaptable multiphysics solver. 
