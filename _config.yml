@@ -63,6 +63,9 @@ collections:
   learning:
     output: true
     permalink: /learning/:name
+  gallery:
+    output: true
+    permalink: /gallery/:name
 
 
 ### Disqus ###
@@ -102,6 +105,11 @@ defaults:
   - scope:
       path: ""
       type: "learning"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "gallery"
     values:
       layout: "page"
 
