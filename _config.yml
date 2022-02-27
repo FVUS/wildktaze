@@ -60,6 +60,9 @@ collections:
     permalink: /projects/:name
   elements:                                             # For Documentation Only
     output: true                                        # For Documentation Only
+  learning:
+    output: true
+    permalink: /learning/:name
 
 
 ### Disqus ###
@@ -98,7 +101,7 @@ defaults:
       comments: false                                   # Set to true to enable disqus comments
   - scope:
       path: ""
-      type: "intropage"
+      type: "learning"
     values:
       layout: "page"
 
