@@ -5,7 +5,7 @@ permalink: /about/
 weight: 4
 ---
 
-# **About Me**
+# **About Wildkatze Multiphysics Solver**
 
 
 Wildkatze is a second and third order finite volume multi-physics solver for simulation in following areas:
