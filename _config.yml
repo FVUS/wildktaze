@@ -63,9 +63,9 @@ collections:
   learning:
     output: true
     permalink: /learning/:name
-  gallery:
+  mygallery:
     output: true
-    permalink: /gallery/:name
+    permalink: /mygallery/:name
 
 
 ### Disqus ###
@@ -109,7 +109,7 @@ defaults:
       layout: "page"
   - scope:
       path: ""
-      type: "gallery"
+      type: "mygallery"
     values:
       layout: "page"
 
