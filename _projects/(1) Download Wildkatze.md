@@ -1,7 +1,7 @@
 ---
 name: Download and Installation
 tools: [Wildkatze,CFD, Multiphysics]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
+image: https://github.com/FVUS/wildktaze/blob/gh-pages/assets/images/cyclye01.png
 description: Download and Installation
 ---
 
