@@ -7,14 +7,11 @@ weight: 4
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
-
-<div class="row">
-{% include about/timeline.html %}
-</div>
+Wildkatze is a second and third order finite volume multi-physics solver for simulation in following areas:
+- Incompressible and Compressible Flow,
+- Aerodynamics,
+- Turbulent Flows
+- Heat Transfer, Conjugate Heat Transfer, Reactive Flows (Finite Rate Combustion),
+- Multiphase Flows (Unlimited Number of Phases), Reactive Mold Filling and
+- User Customized Model for Customized Research
