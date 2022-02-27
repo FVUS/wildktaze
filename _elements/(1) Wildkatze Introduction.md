@@ -7,7 +7,3 @@ external_url:
 ---
 
 
-{% include layout/head.html %}
-
- 
-{% include layout/footer.html %}
