@@ -8,4 +8,3 @@ permalink: /
 
 ## Multiphyics Solver
 
-{% include  navbar.html %}
