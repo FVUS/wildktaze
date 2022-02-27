@@ -8,7 +8,6 @@ permalink: /
 
 ## Multiphyics Solver
 
-[![Introduction](assets/images/logo80.png)](https://youtu.be/WmoHlStr0h0 "Wildkatze CFD")
 
 Wildkatze is a general purpose three-dimensional CFD software package with robust Finite Volume and Finite Difference solvers, preprocessing module, and Multiphysics models for a wide range of industrial problems. Flexibility and advanced solver customization through user algorithms have been given paramount importance in the development of Wildkatze. Solver provides access to almost all the variables and internal settings through object oriented C++ code, empowering the user to take control and customize the solver for specific requirements. The flexibility to set up different physics models, utilizing different schemes, in different regions of flow enhances the reproducibility of physical phenomena and quality of analysis.
 
