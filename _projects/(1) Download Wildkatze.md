@@ -1,7 +1,7 @@
 ---
 name: Download and Installation
 tools: [Wildkatze,CFD, Multiphysics]
-image: http://www.digital-sol.co.jp/wildkatze/static/image/imm1.png
+image: https://github.com/FVUS/wildktaze/blob/main/assets/images/img1/HO1.jpg
 description: Download and Installation
 ---
 
