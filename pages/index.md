@@ -4,7 +4,7 @@ title:  Wildkatze Multiphysics Solver
 permalink: /
 ---
 
-![Wildkatze Logo](assets/images/logo.png)
+![Wildkatze Logo](assets/images/logo.png =30x30)
 
 ## Multiphyics Solver
 
